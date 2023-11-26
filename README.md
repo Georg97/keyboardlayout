@@ -3,8 +3,5 @@ Repository for my custom keyboard layout
 
 ## Ideas for next Iteration
 
-- üäöß to lower layer
-- 0 on lower layer reachable by thumb
-- up/down arrow to page up/down on lower layer
-- optimize access to -#'_@?!
-- multimeda keys
+- have a more thought out layer, maybe with carpalx or colemak-dh, engram
+- try to integrate "home row mods" but not on the home row, since I would like to still roll over keys. Maybe use upper or lower layer
